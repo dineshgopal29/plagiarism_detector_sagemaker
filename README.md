@@ -4,10 +4,10 @@ Build a plagiarism detector that examines a text file and performs binary classi
 # Techniques Used:
 Computing similarity features that measure how similar a given text file is as compared to an original source text by creating features called containment and longest common subsequence. 
 
-# ML Workflow
+# ML Workflow Used
 
 * Data Processing
-* Data CLeanup
+* Data Cleanup
 * Feature Engineering
 * Model Development
 * Model Training
