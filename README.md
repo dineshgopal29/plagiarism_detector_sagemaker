@@ -6,12 +6,12 @@ Computing similarity features that measure how similar a given text file is as c
 
 # ML Workflow
 
-. Data Processing
-. Data CLeanup
-. Feature Engineering
-. Model Development
-. Model Training
-. Model Deployment
+* Data Processing
+* Data CLeanup
+* Feature Engineering
+* Model Development
+* Model Training
+* Model Deployment
 
 # Tools Used:
 Python, sci-kit learn API, AWS Sagemaker, Numpy
