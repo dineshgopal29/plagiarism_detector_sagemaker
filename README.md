@@ -14,4 +14,4 @@ Computing similarity features that measure how similar a given text file is as c
 . Model Deployment
 
 # Tools Used:
-Python, Scikitelearn API, AWS Sagemaker, Numpy
+Python, sci-kit learn API, AWS Sagemaker, Numpy
